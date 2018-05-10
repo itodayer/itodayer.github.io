@@ -4,13 +4,16 @@
     <title><![CDATA[Test Post]]></title>
     <url>%2F2018%2F05%2F09%2FTest-Post%2F</url>
     <content type="text"><![CDATA[This is another test post.]]></content>
+      <tags>
+        <tag>Test Post</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[Hello AI_outlooker]]></title>
     <url>%2F2018%2F05%2F09%2FHello-AI-outlooker%2F</url>
     <content type="text"><![CDATA[This is a test post. 测试标题1测试标题1.11“代码块内容”]]></content>
       <tags>
-        <tag>Test</tag>
+        <tag>AI_outlooker</tag>
       </tags>
   </entry>
   <entry>
