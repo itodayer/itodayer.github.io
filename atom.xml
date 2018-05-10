@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>AI_outlooker</title>
+  
+  <subtitle>微信公众号：AI_outlooker</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://itodayer.org/"/>
+  <updated>2018-05-09T14:20:44.947Z</updated>
+  <id>http://itodayer.org/</id>
+  
+  <author>
+    <name>itodayer</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Test Post</title>
+    <link href="http://itodayer.org/2018/05/09/Test-Post/"/>
+    <id>http://itodayer.org/2018/05/09/Test-Post/</id>
+    <published>2018-05-09T14:20:29.000Z</published>
+    <updated>2018-05-09T14:20:44.947Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is another test post.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;This is another test post.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello AI_outlooker</title>
+    <link href="http://itodayer.org/2018/05/09/Hello-AI-outlooker/"/>
+    <id>http://itodayer.org/2018/05/09/Hello-AI-outlooker/</id>
+    <published>2018-05-09T12:29:47.000Z</published>
+    <updated>2018-05-09T12:32:23.135Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is a test post.</p><h2 id="测试标题1"><a href="#测试标题1" class="headerlink" title="测试标题1"></a>测试标题1</h2><h3 id="测试标题1-1"><a href="#测试标题1-1" class="headerlink" title="测试标题1.1"></a>测试标题1.1</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">“代码块内容”</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;This is a test post.&lt;/p&gt;
+&lt;h2 id=&quot;测试标题1&quot;&gt;&lt;a href=&quot;#测试标题1&quot; class=&quot;headerlink&quot; title=&quot;测试标题1&quot;&gt;&lt;/a&gt;测试标题1&lt;/h2&gt;&lt;h3 id=&quot;测试标题1-1&quot;&gt;&lt;a href=&quot;#测试标题1-
+      
+    
+    </summary>
+    
+    
+      <category term="Test" scheme="http://itodayer.org/tags/Test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://itodayer.org/2018/05/09/hello-world/"/>
+    <id>http://itodayer.org/2018/05/09/hello-world/</id>
+    <published>2018-05-09T09:55:23.000Z</published>
+    <updated>2018-05-09T09:57:01.469Z</updated>
+    
+    <content type="html"><![CDATA[<p>  Welcome to <a href="http://itodayer.org">itodayer.org</a>! This is my very first post.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;  Welcome to &lt;a href=&quot;http://itodayer.org&quot;&gt;itodayer.org&lt;/a&gt;! This is my very first post.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; 
+      
+    
+    </summary>
+    
+    
+      <category term="Hello World" scheme="http://itodayer.org/tags/Hello-World/"/>
+    
+  </entry>
+  
+</feed>
