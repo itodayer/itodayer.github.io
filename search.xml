@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[Test Post]]></title>
     <url>%2F2018%2F05%2F09%2FTest-Post%2F</url>
-    <content type="text"><![CDATA[This is another test post.]]></content>
+    <content type="text"><![CDATA[This is another test post. This is the first line.这是第二行。……]]></content>
       <categories>
         <category>Test</category>
       </categories>

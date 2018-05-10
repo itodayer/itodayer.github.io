@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://itodayer.org/"/>
-  <updated>2018-05-10T02:39:17.973Z</updated>
+  <updated>2018-05-10T05:57:00.149Z</updated>
   <id>http://itodayer.org/</id>
   
   <author>
@@ -21,17 +21,13 @@
     <link href="http://itodayer.org/2018/05/09/Test-Post/"/>
     <id>http://itodayer.org/2018/05/09/Test-Post/</id>
     <published>2018-05-09T14:20:29.000Z</published>
-    <updated>2018-05-10T02:39:17.973Z</updated>
+    <updated>2018-05-10T05:57:00.149Z</updated>
     
-    <content type="html"><![CDATA[<p>This is another test post.</p>]]></content>
+    <content type="html"><![CDATA[<p>This is another test post.</p><a id="more"></a><p>This is the first line.<br>这是第二行。<br>……</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;This is another test post.&lt;/p&gt;
-
-      
+      &lt;p&gt;This is another test post.&lt;/p&gt;
     
     </summary>
     
@@ -47,17 +43,13 @@
     <link href="http://itodayer.org/2018/05/09/Hello-AI-outlooker/"/>
     <id>http://itodayer.org/2018/05/09/Hello-AI-outlooker/</id>
     <published>2018-05-09T12:29:47.000Z</published>
-    <updated>2018-05-10T02:39:08.029Z</updated>
+    <updated>2018-05-10T05:56:14.314Z</updated>
     
-    <content type="html"><![CDATA[<p>This is a test post.</p><h2 id="测试标题1"><a href="#测试标题1" class="headerlink" title="测试标题1"></a>测试标题1</h2><h3 id="测试标题1-1"><a href="#测试标题1-1" class="headerlink" title="测试标题1.1"></a>测试标题1.1</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">“代码块内容”</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>This is a test post.</p><a id="more"></a><h2 id="测试标题1"><a href="#测试标题1" class="headerlink" title="测试标题1"></a>测试标题1</h2><h3 id="测试标题1-1"><a href="#测试标题1-1" class="headerlink" title="测试标题1.1"></a>测试标题1.1</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">“代码块内容”</span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;This is a test post.&lt;/p&gt;
-&lt;h2 id=&quot;测试标题1&quot;&gt;&lt;a href=&quot;#测试标题1&quot; class=&quot;headerlink&quot; title=&quot;测试标题1&quot;&gt;&lt;/a&gt;测试标题1&lt;/h2&gt;&lt;h3 id=&quot;测试标题1-1&quot;&gt;&lt;a href=&quot;#测试标题1-
-      
+      &lt;p&gt;This is a test post.&lt;/p&gt;
     
     </summary>
     
@@ -73,17 +65,13 @@
     <link href="http://itodayer.org/2018/05/09/hello-world/"/>
     <id>http://itodayer.org/2018/05/09/hello-world/</id>
     <published>2018-05-09T09:55:23.000Z</published>
-    <updated>2018-05-10T02:39:00.076Z</updated>
+    <updated>2018-05-10T05:55:55.665Z</updated>
     
-    <content type="html"><![CDATA[<p>  Welcome to <a href="http://itodayer.org">itodayer.org</a>! This is my very first post.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p>  Welcome to <a href="http://itodayer.org">itodayer.org</a>! This is my very first post.</p><a id="more"></a>  <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;  Welcome to &lt;a href=&quot;http://itodayer.org&quot;&gt;itodayer.org&lt;/a&gt;! This is my very first post.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; 
-      
+      &lt;p&gt;  Welcome to &lt;a href=&quot;http://itodayer.org&quot;&gt;itodayer.org&lt;/a&gt;! This is my very first post.&lt;/p&gt;
     
     </summary>
     
