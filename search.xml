@@ -4,6 +4,9 @@
     <title><![CDATA[Test Post]]></title>
     <url>%2F2018%2F05%2F09%2FTest-Post%2F</url>
     <content type="text"><![CDATA[This is another test post.]]></content>
+      <categories>
+        <category>Test</category>
+      </categories>
       <tags>
         <tag>Test Post</tag>
       </tags>
@@ -12,6 +15,9 @@
     <title><![CDATA[Hello AI_outlooker]]></title>
     <url>%2F2018%2F05%2F09%2FHello-AI-outlooker%2F</url>
     <content type="text"><![CDATA[This is a test post. 测试标题1测试标题1.11“代码块内容”]]></content>
+      <categories>
+        <category>Tutorial</category>
+      </categories>
       <tags>
         <tag>AI_outlooker</tag>
       </tags>
@@ -20,6 +26,9 @@
     <title><![CDATA[Hello World]]></title>
     <url>%2F2018%2F05%2F09%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to itodayer.org! This is my very first post. Quick StartCreate a new post1$ hexo new "My New Post"]]></content>
+      <categories>
+        <category>Tutorial</category>
+      </categories>
       <tags>
         <tag>Hello World</tag>
       </tags>
