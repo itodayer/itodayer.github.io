@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://itodayer.org/"/>
-  <updated>2018-05-14T03:19:04.302Z</updated>
+  <updated>2018-05-14T03:21:41.469Z</updated>
   <id>http://itodayer.org/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://itodayer.org/2018/05/14/markdown-tutorial/"/>
     <id>http://itodayer.org/2018/05/14/markdown-tutorial/</id>
     <published>2018-05-14T03:07:47.000Z</published>
-    <updated>2018-05-14T03:19:04.302Z</updated>
+    <updated>2018-05-14T03:21:41.469Z</updated>
     
     <summary type="html">
     
@@ -29,21 +29,8 @@
       
         
         
-          &lt;!--这是一段注释。注释不会在浏览器中显示。--&gt;
-&lt;!--
-# Markdown简明语法
-1. 标题
-# 一级标题
-## 二级标题
-### 三级标题
-#### 四级标题
-##### 五级标题
-
-2. 列表
-- 无序列表1
-- 无序列表2
-1. 有序列表1
-2.
+          &lt;p&gt;TEST&lt;br&gt;&lt;!--这是一段注释。注释不会在浏览器中显示。--&gt;&lt;br&gt;&amp;lt;!–&lt;/p&gt;
+&lt;h1 id=&quot;Markdown简明语法&quot;&gt;&lt;a href=&quot;#Markdown简明语法&quot; class=&quot;headerlink&quot;
         
       
     
