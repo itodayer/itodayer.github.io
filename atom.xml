@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://itodayer.org/"/>
-  <updated>2018-05-14T06:27:09.573Z</updated>
+  <updated>2018-05-14T06:31:12.082Z</updated>
   <id>http://itodayer.org/</id>
   
   <author>
@@ -21,18 +21,12 @@
     <link href="http://itodayer.org/2018/05/14/markdown-tutorial/"/>
     <id>http://itodayer.org/2018/05/14/markdown-tutorial/</id>
     <published>2018-05-14T03:07:47.000Z</published>
-    <updated>2018-05-14T06:27:09.573Z</updated>
+    <updated>2018-05-14T06:31:12.082Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;!--这是一段注释。注释不会在浏览器中显示。--&gt;
-&lt;h1 id=&quot;Markdown简明语法&quot;&gt;&lt;a href=&quot;#Markdown简明语法&quot; class=&quot;headerlink&quot;
-        
-      
+      &lt;!--这是一段注释。注释不会在浏览器中显示。--&gt;
+&lt;h1 id=&quot;Markdown简明语法&quot;&gt;&lt;a href=&quot;#Markdown简明语法&quot; class=&quot;headerlink&quot; title=&quot;Markdown简明语法&quot;&gt;&lt;/a&gt;Markdown简明语法&lt;/h1&gt;
     
     </summary>
     
