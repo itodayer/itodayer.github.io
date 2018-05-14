@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[Markdown_Tutorial]]></title>
     <url>%2F2018%2F05%2F14%2Fmarkdown-tutorial%2F</url>
-    <content type="text"><![CDATA[Markdown简明语法 标题 一级标题 (“#一级标题”)二级标题 (“##二级标题”)三级标题 (“###三级标题”)四级标题 (“####四级标题”) 列表 无序列表1 无序列表2 有序列表1 有序列表2 引用 这个是引用 粗体与斜体这个是粗体这个是斜体 链接与图片5.1 自动链接&lt;itodayer.org/&gt;&#x7a;&#104;&#111;&#x75;&#x68;&#117;&#105;&#50;&#x30;&#49;&#53;&#64;&#105;&#x61;&#x2e;&#x61;&#99;&#x2e;&#x63;&#110;5.2 插入链接链接5.3 图片链接 代码用TAB键起始的段落，会被认为是代码块 echo “hello world&quot;; 如果在一个行内需要引用代码，只要用反引号引起来就好Use the printf() function. 分割线、删除线可以在一行中用三个以上的星号、减号、底线来建立一个分隔线,用~可建立删除线。 Mistaken text. 代码块与语法高亮123require 'redcarpet'markdown = Redcarpet.new("Hello World!")puts markdown.to_html]]></content>
+    <content type="text"><![CDATA[Markdown简明语法 标题 一级标题 (“#一级标题”)二级标题 (“##二级标题”)三级标题 (“###三级标题”)四级标题 (“####四级标题”) 列表 无序列表1 无序列表2 有序列表1 有序列表2 引用 这个是引用 粗体与斜体这个是粗体这个是斜体 链接与图片5.1 自动链接&lt;itodayer.org/&gt;&#x7a;&#104;&#111;&#x75;&#x68;&#x75;&#x69;&#50;&#x30;&#49;&#x35;&#64;&#105;&#x61;&#x2e;&#97;&#x63;&#x2e;&#99;&#110;5.2 插入链接链接5.3 图片链接 代码用TAB键起始的段落，会被认为是代码块 echo “hello world&quot;; 如果在一个行内需要引用代码，只要用反引号引起来就好Use the printf() function. 分割线、删除线可以在一行中用三个以上的星号、减号、底线来建立一个分隔线,用~可建立删除线。 Mistaken text. 代码块与语法高亮123require 'redcarpet'markdown = Redcarpet.new("Hello World!")puts markdown.to_html]]></content>
       <categories>
         <category>Markdown</category>
       </categories>
