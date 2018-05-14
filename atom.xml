@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://itodayer.org/"/>
-  <updated>2018-05-10T06:36:37.065Z</updated>
+  <updated>2018-05-14T03:07:47.966Z</updated>
   <id>http://itodayer.org/</id>
   
   <author>
@@ -15,6 +15,42 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>markdown_tutorial</title>
+    <link href="http://itodayer.org/2018/05/14/markdown-tutorial/"/>
+    <id>http://itodayer.org/2018/05/14/markdown-tutorial/</id>
+    <published>2018-05-14T03:07:47.000Z</published>
+    <updated>2018-05-14T03:07:47.966Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!--这是一段注释。注释不会在浏览器中显示。--&gt;
+&lt;!--
+# Markdown简明语法
+1. 标题
+# 一级标题
+## 二级标题
+### 三级标题
+#### 四级标题
+##### 五级标题
+
+2. 列表
+- 无序列表1
+- 无序列表2
+1. 有序列表1
+2.
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Test Post</title>
